@@ -2,6 +2,7 @@
 db.json
 public/
 .deploy_git/
+node_modules/
 
 ### vscode ###
 .vscode/*

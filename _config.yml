@@ -4,12 +4,12 @@
 
 # Site
 title: 衣谷作坊
-subtitle: '骑马与砍杀2 三国 Mod 制作组'
+subtitle: '三国 Mod 制作组'
 description: ''
-keywords: mount and blade 2, Three Kingdoms
+keywords: Three Kingdoms, Game, Mod
 author: YiGu Studio
 language: zh-CN
-timezone: ''
+timezone: 'Asia/Shanghai'
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://example.com/child' and root as '/child/'
@@ -91,8 +91,8 @@ pagination_dir: page
 
 # Include / Exclude file(s)
 ## include:/exclude: options only apply to the 'source/' folder
-include:
-exclude:
+include: []
+exclude: []
 ignore:
 
 # Extensions
